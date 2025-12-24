@@ -28,17 +28,16 @@ This project uses **Machine Learning** to detect **fake job postings** based on 
 Navigate to the project folder:
 
 bash
-Copy code
 cd Fake-job-detection
+
 Install dependencies:
 
 bash
-Copy code
 pip install -r requirements.txt
+
 Run the application:
 
 bash
-Copy code
 python app.py
 Enter a job description to detect fraud 🕵️‍♂️
 
@@ -61,3 +60,4 @@ Enhance NLP with BERT or deep learning models
 
 ⚠️ Disclaimer
 This is an educational project and predictions may not be 100% accurate. Use it as a reference tool, not a legal judgment.
+
